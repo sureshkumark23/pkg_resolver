@@ -34,9 +34,9 @@ or external graph libraries.
 | BFS on Reversed Graph | Impact analysis | Week 9 |
 
 ---
-
 ## 🗂️ Project Structure
 
+```
 pkg_resolver/
 ├── core/
 │   ├── graph.py          # Graph builder (adjacency list)
@@ -47,12 +47,17 @@ pkg_resolver/
 ├── api/
 │   └── main.py           # FastAPI REST backend
 ├── frontend/
-│   └── src/App.js        # React UI
+│   └── src/
+│       └── App.js        # React UI
 ├── tests/
 │   └── test_all.py       # 17 pytest tests
-└── .github/workflows/
-└── ci.yml            # GitHub Actions CI
-
+├── .github/
+│   └── workflows/
+│       └── ci.yml        # GitHub Actions CI
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
 
 ---
 
