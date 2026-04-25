@@ -26,12 +26,12 @@ or external graph libraries.
 
 ## ⚙️ Algorithms Implemented (From Scratch)
 
-| Algorithm | Problem Solved | NPTEL Week |
-|---|---|---|
-| DFS Topological Sort | Valid install order | Week 9 |
-| DFS Cycle Detection | Circular dependency check | Week 9 |
-| Disjoint Set Union (DSU) | Version conflict detection | Week 7 |
-| BFS on Reversed Graph | Impact analysis | Week 9 |
+| Algorithm | Problem Solved | 
+|---|---|
+| DFS Topological Sort | Valid install order | 
+| DFS Cycle Detection | Circular dependency check | 
+| Disjoint Set Union (DSU) | Version conflict detection | 
+| BFS on Reversed Graph | Impact analysis | 
 
 ---
 ## 🗂️ Project Structure
